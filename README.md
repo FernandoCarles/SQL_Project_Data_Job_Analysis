@@ -3,7 +3,7 @@ welcome to my SQL portafolio project, here i make an analysis into the data job 
 
 check out my SQL queries here: [project_sql folder](/project_sql/)
 ## -Background
-I make thjis porject for my desire to understand data scientist job market better, I aimed to discover which skills are paid the most and in demand, making my job search more targeted and effective.
+I make this project for my desire to understand data scientist job market better, I aimed to discover which skills are paid the most and in-demand, making my job search more targeted and effective.
 
 The data for this analysis is from Luke Barousse’s SQL Course [SQL course](https://www.lukebarousse.com/sql). This data includes details on job titles, salaries, locations, and required skills. 
 
