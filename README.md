@@ -1,5 +1,5 @@
 ## -introduction
-welcome to my SQL portafolio project, here i make an analysis into the data job market with a focus of Dana Scientist role, this is a exploration into identifying the top-paying roles and in-demand skills.
+welcome to my SQL portafolio project, here i make an analysis into the data job market with a focus of Data Scientist role, this is a exploration into identifying the top-paying roles and in-demand skills.
 
 check out my SQL queries here: [project_sql folder](/project_sql/)
 ## -Background
